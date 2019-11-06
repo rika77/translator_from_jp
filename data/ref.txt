@@ -1,0 +1,702 @@
+i m 19 .
+i m up .
+i m tom .
+i m tom .
+i m fat .
+i m busy .
+i m busy .
+i m cool .
+i m free .
+i m full .
+i m sick .
+i m well .
+he is old .
+he s a dj .
+i am calm .
+i am sure .
+i am sure .
+i m a cop .
+i m alone .
+i m awake .
+i m broke .
+i m clean .
+i m dizzy .
+i m drunk .
+i m early .
+i m fussy .
+i m smart .
+i m sorry .
+i m sorry .
+i m sorry .
+i m tired .
+i m tired .
+i m young .
+he is nice .
+he s smart .
+i am a man .
+i m a twin .
+i m amused .
+i m coming .
+i m honest .
+i m hungry !
+i m hungry !
+i m hungry .
+i m hungry .
+i m pooped .
+i m sleepy .
+i m twelve .
+we re boys .
+i am coming .
+i am hungry .
+i am hungry .
+i am hungry .
+i m a baker .
+i m certain .
+i m curious .
+i m excited .
+i m healthy .
+i m so full .
+i m starved .
+i m starved .
+i m starved .
+i m starved .
+i m thirsty .
+i m useless .
+you re nuts !
+he is a poet .
+i am a woman .
+i am thirsty .
+i m busy now .
+i m busy now .
+i m famished .
+i m fine now .
+i m hungover .
+i m pregnant .
+i m so sorry .
+i m starving !
+i m starving .
+she is a fox .
+she is lucky .
+she is wrong .
+they re here .
+you re lucky .
+you re lying .
+you re lying .
+you re lying .
+you re right .
+you re weird .
+he is english .
+he is foolish .
+he is my boss .
+he s very ill .
+i am japanese .
+i am busy now .
+i m a patient .
+i m efficient .
+i m exhausted .
+i m exhausted .
+i m exhausted .
+i m exhausted .
+i m expecting .
+i m impatient .
+i m impatient .
+i m in boston .
+i m just lazy .
+i m not a kid .
+i m not alone .
+i m not angry .
+i m on a diet .
+i m satisfied .
+i m unmarried .
+i m very busy .
+i m voting no .
+she is active .
+he is a golfer .
+he is delicate .
+he is in tokyo .
+he is well off .
+he s a bit shy .
+he s my friend .
+i am exhausted .
+i am exhausted .
+i am too short .
+i m a prisoner .
+i m a stuntman .
+i m against it .
+i m all for it .
+i m in the car .
+i m mad at tom .
+i m not a hero .
+i m not guilty .
+i m not hungry .
+i m undressing .
+i m very sorry .
+i m very tired .
+i m very tired .
+she is dieting .
+she s innocent .
+you re in luck .
+you re kidding !
+he is a teacher .
+he is very kind .
+he s a big liar .
+he s kind to me .
+he s over forty .
+he s very timid .
+i am not hungry .
+i m a bit tired .
+i m a housewife .
+i m a night owl .
+i m begging you .
+i m from canada .
+i m going to go .
+i m leaving now .
+i m very hungry .
+i m very lonely .
+i m very sleepy .
+they are actors .
+we re in boston .
+we re in a rush .
+you re an angel .
+you re so picky .
+he is her friend .
+he is overweight .
+he is unsociable .
+he is unsociable .
+he is very angry .
+he s always busy .
+he s not at home .
+he s not my type .
+he s still young .
+he s very strong .
+i am a bit drunk .
+i am a housewife .
+i am from france .
+i m an adult now .
+i m going to try .
+i m good at math .
+i m good at this .
+i m just looking .
+i m just looking .
+i m just looking .
+i m just looking .
+i m killing time .
+i m not so brave .
+i m on your side .
+i m really sorry .
+i m really tired .
+i m really tired .
+i m super hungry .
+she is a teacher .
+she is very wise .
+you are children .
+he is a brave man .
+he is a detective .
+he is a gentleman .
+he is a scientist .
+he is about forty .
+he is at his desk .
+he is on the team .
+he is still alive .
+he is very honest .
+he isn t here now .
+he isn t here yet .
+he s a big coward .
+he s looking good .
+he s not here yet .
+he s now studying .
+he s swimming now .
+i am a vegetarian .
+i am going to bed .
+i am not like you .
+i m a human being .
+i m a little busy .
+i m all alone now .
+i m awfully tired .
+i m kind of happy .
+i m not satisfied .
+i m on cloud nine .
+i m really hungry .
+i m really hungry .
+i m really lonely .
+she is aggressive .
+she s fashionable .
+she s from france .
+she s from france .
+she s very pretty .
+they re not metal .
+we are not amused .
+you re disgusting .
+you re surrounded .
+you re telling me .
+he is a bus driver .
+he is a work horse .
+he is about my age .
+he is good at golf .
+he is my classmate .
+he is not a doctor .
+he is playing golf .
+he is sure to come .
+he is thick headed .
+he is very careful .
+he isn t my cousin .
+he s a kind person .
+he s good at cards .
+he s my first love .
+i am in deep water .
+i am not a teacher .
+i m a little tired .
+i m afraid of cats .
+i m afraid of dogs .
+i m busy with work .
+i m cool with that .
+i m free on sunday .
+i m free on sunday .
+i m from australia .
+i m from australia .
+i m from singapore .
+i m from singapore .
+i m learning music .
+i m not frightened .
+i m short of money .
+i m simply looking .
+i m sorry i m late .
+i m taking off now .
+i m terribly sorry .
+she is helping him .
+she is kind to him .
+she is unconscious .
+she is very clever .
+she is very pretty .
+she s a big teaser .
+we re out of stock .
+you re soaking wet .
+you re very astute .
+he is a fast runner .
+he is a fast runner .
+he is a hard worker .
+he is good at rugby .
+he is overconfident .
+he is playing there .
+he is telling a lie .
+he is very handsome .
+he s a late bloomer .
+he s behaving oddly .
+he s hard to please .
+he s in the kitchen .
+he s in the kitchen .
+he s scared of dogs .
+i am deeply ashamed .
+i am engaged to her .
+i am older than him .
+i m counting on you .
+i m counting on you .
+i m extremely tired .
+i m learning french .
+i m no longer tired .
+i m not a bit tired .
+i m sick of english .
+i m stuck in my job .
+i m studying french .
+i m taller than you .
+i m terribly hungry .
+i m up in the attic .
+i m very sleepy now .
+she is a little shy .
+she is about my age .
+she is good natured .
+she s a kind person .
+she s still a minor .
+she s wearing a hat .
+we re finally alone .
+you re a workaholic .
+he is a lazy student .
+he is afraid of dogs .
+he is cool isn t he ?
+he is doing his work .
+he is in trouble now .
+he is likely to come .
+he is no longer here .
+he is now on his own .
+he s eight years old .
+he s got lung cancer .
+i am afraid of dying .
+i am no longer tired .
+i am terribly hungry .
+i m a windows person .
+i m all set to start .
+i m dying to see you .
+i m in love with her .
+i m learning english .
+i m not able to swim .
+i m not at all tired .
+i m not at all tired .
+i m sorry i hurt you .
+i m still seeing tom .
+i m still very tired .
+i m twelve years old .
+she is a bad speaker .
+she is a good writer .
+she is a real beauty .
+she is a slow runner .
+she is in a bad mood .
+she is living abroad .
+she s as busy as tom .
+she s been very busy .
+she s gone on a trip .
+she s older than tom .
+she s older than him .
+we re ready to leave .
+you are not japanese .
+you re just guessing .
+he is a self made man .
+he is as busy as ever .
+he is good at cooking .
+he is now at the desk .
+he is sure of success .
+he s away on business .
+he s eating lunch now .
+he s our only suspect .
+i am glad to meet you .
+i am in the classroom .
+i m a little confused .
+i m glad tom liked it .
+i m in seventh heaven .
+i m not a kid anymore .
+i m sorry i m so late .
+i m tied up right now .
+she is always smiling .
+she is an early riser .
+she is five years old .
+she is likely to come .
+she is sewing a dress .
+she is weak by nature .
+she isn t a good cook .
+she s eight years old .
+she s in the restroom .
+she s not at home now .
+you aren t very smart .
+he is a good carpenter .
+he is a good carpenter .
+he is a tough customer .
+he is afraid of snakes .
+he is afraid of snakes .
+he is an active person .
+he is full of ambition .
+he is in love with her .
+he is playing outdoors .
+he is terrible at math .
+he is tired of reading .
+he s at home right now .
+he s stronger than you .
+i am leaving next week .
+i m a japanese student .
+i m allergic to gluten .
+i m as happy as can be .
+i m busy at the moment .
+i m happy i could help .
+i m lonely without you .
+i m not a good swimmer .
+i m not good at french .
+i m not good at tennis .
+i m rather proud of it .
+she is a famous singer .
+she is habitually late .
+she is in need of help .
+she is in the bathroom .
+she s smarter than him .
+he is a friendly person .
+he is a great scientist .
+he is a highly paid man .
+he is a lover of sports .
+he is a sort of painter .
+he is afraid of the dog .
+he is as strong as ever .
+he is drawing a picture .
+he is fluent in chinese .
+he is looking for a job .
+he is strong as a horse .
+he is used to traveling .
+he isn t lonely anymore .
+he s afraid of that dog .
+he s afraid of that dog .
+he s scared of that dog .
+he s writing a book now .
+i am a realistic person .
+i am as happy as can be .
+i am disgusted with him .
+i am disgusted with you .
+i am disgusted with you .
+i am filled with sorrow .
+i am the fastest runner .
+i m busy doing homework .
+i m disappointed in you .
+i m disappointed in you .
+i m faithful to my wife .
+i m fed up with english .
+i m glad you enjoyed it .
+i m going to take a nap .
+i m learning french now .
+i m not going if tom is .
+i m on the eighth floor .
+i m pleased to meet you .
+i m waiting for someone .
+she is a selfish person .
+she is as busy as a bee .
+she is down with a cold .
+she is dressed in white .
+she is out on an errand .
+she is very hardworking .
+she is very intelligent .
+she is very intelligent .
+she is very intelligent .
+she is very intelligent .
+she s unfit for the job .
+they are gathering nuts .
+you re a wonderful cook .
+you re absolutely right .
+you re right i m sorry .
+he is a pretty great guy .
+he is afraid of swimming .
+he is always complaining .
+he is crazy about skiing .
+he is famous as a doctor .
+he is nothing but a fool .
+he is stronger than i am .
+he is such a lazy fellow .
+he s a strange character .
+he s at church right now .
+he s reading a novel now .
+i am about to leave here .
+i am acquainted with him .
+i am pleased to meet you .
+i m a university student .
+i m against the marriage .
+i m crazy about football .
+i m going home next week .
+i m going to pick tom up .
+i m sorry i let you down .
+i m sorry to trouble you .
+i m too excited to sleep .
+she is a college student .
+she is a reliable person .
+she is an appalling cook .
+she s a really nice girl .
+she s a slave to fashion .
+she s afraid of the dark .
+she s wearing eye shadow .
+they are very big apples .
+you re looking very well .
+you re lying aren t you ?
+you re thinking too much .
+he is free with his money .
+he is inclined to get mad .
+he is tired from overwork .
+he s as strong as a horse .
+he s good at flying kites .
+he s standing on his head .
+i am a university student .
+i am able to read english .
+i am hanging up my shirts .
+i am not getting involved .
+i am very glad to see you .
+i m busy with my homework .
+i m busy so i can t help .
+i m going to the restroom .
+i m in the eleventh grade .
+i m scared to talk to tom .
+i m sorry about yesterday .
+i m sure tom will help us .
+she is a slave of fashion .
+she is far from beautiful .
+she s seventeen years old .
+they are both in the room .
+we re about to leave here .
+you re absolutely correct .
+he is a teacher of english .
+he is absorbed in his work .
+he is an expert at fishing .
+he is crazy about baseball .
+he is now staying in paris .
+he s a high school student .
+he s a high school student .
+he s a man of many talents .
+he s a very selfish person .
+he s always short of money .
+he s different from before .
+he s good at telling jokes .
+he s much younger than tom .
+he s somewhere in the park .
+i am just going for a walk .
+i m dying for a cold drink .
+i m glad that you can come .
+i m in hong kong right now .
+i m listening to the radio .
+i m sorry to interrupt you .
+i m the baby of the family .
+i m very sleepy today too .
+i m worried about tom too .
+she is handy with a needle .
+we are about to leave here .
+we are about to leave here .
+you are absolutely correct .
+he is a novelist and artist .
+he is a promising young man .
+he is in high spirits today .
+he is just pulling your leg .
+he is longing for city life .
+he is related to the family .
+he is still very much alive .
+he is swimming in the river .
+i am going to buy a new car .
+i m a junior in high school .
+i m at the beach on holiday .
+i m now busy writing a book .
+i m taking a walk in a park .
+i m very unhappy about this .
+i m worried about my weight .
+she is an american by birth .
+she is apt to win the prize .
+she is contemplating a trip .
+she is gentle with children .
+she is going to have a baby .
+she is in low spirits today .
+they are about the same age .
+they are always complaining .
+we re going to have a storm .
+you are as white as a sheet .
+you re a troublesome person !
+you re really a hard worker .
+he is a doctor by profession .
+he is a total stranger to me .
+he is a well informed person .
+he is able to play the flute .
+he is able to speak japanese .
+he is always late for school .
+he is an experienced teacher .
+he is an expert in economics .
+he is every inch a gentleman .
+he is good at riding a horse .
+he is in charge of the class .
+he is listening to the radio .
+he is not what he used to be .
+he is not what he used to be .
+he is not what he used to be .
+he is the manager of a hotel .
+he s a very important person .
+he s always late to meetings .
+he s waiting at the bus stop .
+i am no better than a beggar .
+i m a bit short of money now .
+i m actually enjoying myself .
+i m catching the 11 00 train .
+i m sorry i kept you waiting .
+i m used to getting up early .
+she is someone you can trust .
+you re just like your father .
+you re just like your father .
+he is able to play the guitar .
+he is always going after fame .
+he is an ideal husband for me .
+he is by far the best student .
+he is lacking in common sense .
+he is likely to be late again .
+he is the image of his father .
+he is the man you can rely on .
+he s always changing his mind .
+i m sorry about the other day .
+i m sorry that i let you down .
+she is afraid of barking dogs .
+she is afraid of barking dogs .
+she s really smart isn t she ?
+he is afraid of his own shadow .
+he is often absent from school .
+he is something of a celebrity .
+he is subject to fits of anger .
+he s been working all day long .
+i am glad to run into you here .
+i m glad i could be of service .
+i m sorry but it s impossible .
+i m used to cooking for myself .
+i m very happy to have met you .
+she is what is called a genius .
+she isn t adequate to the task .
+he is about to leave for london .
+he is enthusiastic about tennis .
+he is going to be a father soon .
+he is not as tall as his father .
+he is old enough to drive a car .
+he s three years older than her .
+he s used to climbing mountains .
+i m going to take a short break .
+i m leaving for canada tomorrow .
+i m sorry i m dressed like this .
+i m sorry we have no vacancies .
+i m tired of him bawling me out .
+she is playing with her friends .
+she is very free with her money .
+you are a good cook aren t you ?
+he is accustomed to working hard .
+he is expected to come home soon .
+he is living apart from his wife .
+he is nothing more than a coward .
+he is the president in name only .
+he s a carbon copy of his father .
+he s a carbon copy of his father .
+he s not at all afraid of snakes .
+i m going to take a quick shower .
+i m looking forward to the party .
+i m two years younger than he is .
+she is going to be six next year .
+she s as clever as they make em .
+you re angry with me aren t you ?
+he is such a good english speaker .
+i m a member of the swimming club .
+i m busy looking for an apartment .
+i m looking forward to seeing him .
+she is constantly writing letters .
+she s a professional photographer .
+they aren t swimming in the river .
+you re reading too much into this .
+he is a reporter for time magazine .
+he s three years older than she is .
+he s three years older than she is .
+he s three years older than she is .
+he s what we call an honor student .
+i m ok with having just one friend .
+i m going to the convenience store .
+i m sorry to have kept you waiting .
+i m tied up with this job recently .
+she is a fluent speaker of english .
+she is a fluent speaker of english .
+he s just an ordinary office worker .
+i am really pleased with my new car .
+i m busy getting ready for tomorrow .
+i m disappointed that he s not here .
+you re one narrow minded individual .
+you re reading too much into things .
+he is still dependent on his parents .
+he is younger than me by three years .
+he s a difficult person to deal with .
+i am going to hokkaido in the summer .
+i m afraid this data is not reliable .
+i m sorry i have another engagement .
+she s not as beautiful as her mother .
+he is well read in english literature .
+i am afraid you have the wrong number .
+i m not a bit interested in chemistry .
+she is deeply attached to her parents .
+she is very particular about her food .
+you re planning something aren t you ?
+he is the principal of the high school .
+he is the spitting image of his father .
+he s in charge of the sales department .
+i am grateful to you for your kindness .
+i m counting how many people there are .
+you re not allowed to park around here .
+you re going to boston next week right ?
+i am considering how to settle the matter .
+i m firmly opposed to corporal punishment .
+they re on good terms with their neighbors .
+he is the foremost authority on heart surgery .
+he is the manager of the marketing department .

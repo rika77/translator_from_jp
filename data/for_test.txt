@@ -1,0 +1,702 @@
+１ ９ 歳 です 。	i m 19 .
+起き てる よ 。	i m up .
+トム と いい ます 。	i m tom .
+私 は トム です 。	i m tom .
+私 は 太っ て いる 。	i m fat .
+僕 は 忙しい 。	i m busy .
+忙しい です 。	i m busy .
+俺 は クール だ 。	i m cool .
+手 は 空い て い ます よ 。	i m free .
+お腹 が いっぱい です 。	i m full .
+病気 です 。	i m sick .
+私 は 大丈夫 です 。	i m well .
+彼 は 年 を 取っ て いる 。	he is old .
+彼 は ＤＪ です 。	he s a dj .
+私 は 落ち着い て い ます 。	i am calm .
+確か だ よ 。	i am sure .
+その こと を 確信 し て いる 。	i am sure .
+私 は 警官 だ 。	i m a cop .
+私 は 一 人 だ 。	i m alone .
+起き てる よ 。	i m awake .
+文無し な ん だ 。	i m broke .
+私 は 清潔 だ 。	i m clean .
+くらくら する 。	i m dizzy .
+酔っ た 。	i m drunk .
+早かっ た 。	i m early .
+私 は 細かい ん だ 。	i m fussy .
+私 って 冴え てる ！	i m smart .
+悪かっ た 。	i m sorry .
+御免 なさい 。	i m sorry .
+すみません 。	i m sorry .
+疲れ て いる ん だ 。	i m tired .
+疲れ た なあ 。	i m tired .
+僕 は 若い 。	i m young .
+彼 は いい 人 です 。	he is nice .
+利口 だ ね 。	he s smart .
+俺 は 人間 だ 。	i am a man .
+私 は 双子 です 。	i m a twin .
+楽しん でる よ 。	i m amused .
+すぐ 参り ます 。	i m coming .
+ほんと だって ば 。	i m honest .
+おなか 空い た ！	i m hungry !
+腹 が 減っ た 。	i m hungry !
+おなか 空い た ！	i m hungry .
+おなか ペコペコ だ 。	i m hungry .
+疲れ た なあ 。	i m pooped .
+あー 、 眠い 。	i m sleepy .
+12 歳 です 。	i m twelve .
+私 たち は 男 です 。	we re boys .
+いま 、 行き ます 。	i am coming .
+お腹 が すい た 。	i am hungry .
+おなか ペコペコ だ 。	i am hungry .
+お腹 が 減っ た 。	i am hungry .
+私 は パン 屋 です 。	i m a baker .
+その こと を 確信 し て いる 。	i m certain .
+私 は 好奇 心 旺盛 な の です 。	i m curious .
+ワクワク する なあ 。	i m excited .
+私 は 体 は 健康 です 。	i m healthy .
+もう 満腹 です 。	i m so full .
+お腹 が ぺこぺこ です 。	i m starved .
+ものすごく お腹 が すい て いる 。	i m starved .
+超 腹 減っ た 。	i m starved .
+めっちゃ お腹 すい た 。	i m starved .
+のど 渇い た 。	i m thirsty .
+俺 って 役立た ず だ な 。	i m useless .
+馬鹿 だ な 、 おまえ ら ！	you re nuts !
+彼 は 詩人 だ 。	he is a poet .
+私 は 女 だ 。	i am a woman .
+のど 渇い た 。	i am thirsty .
+今 、 手 が はなせ ませ ん 。	i m busy now .
+ちょうど 今 は 忙しい 。	i m busy now .
+お腹 すい て 死に そう 。	i m famished .
+もう 大丈夫 です 。	i m fine now .
+二日酔い だ 。	i m hungover .
+妊娠 し て い ます 。	i m pregnant .
+お 気の毒 に 。	i m so sorry .
+お腹 すい て 死に そう 。	i m starving !
+おなか が すい て 死に そう だ 。	i m starving .
+いい 女 だ 。	she is a fox .
+彼女 は つい て いる 。	she is lucky .
+彼女 の いう こと は 間違っ て いる 。	she is wrong .
+彼ら は ここ に いる 。	they re here .
+君たち 、 ラッキー だ なあ ！	you re lucky .
+嘘 つけ 。	you re lying .
+嘘 おっしゃい 。	you re lying .
+嘘 つけ ！	you re lying .
+おっしゃる 通り です 。	you re right .
+おまえ 、 変わっ てる な 。	you re weird .
+彼 は イギリス 人 です 。	he is english .
+彼 は ばか だ 。	he is foolish .
+彼 は 私 の 上司 です 。	he is my boss .
+彼 は とても 具合 が 悪い 。	he s very ill .
+私 は 日本人 です 。	i am japanese .
+今 、 忙しい の 。	i am busy now .
+私 は 患者 です 。	i m a patient .
+私 は 切れ者 だ 。	i m efficient .
+疲れ た なあ 。	i m exhausted .
+私 は 大変 疲れ て い ます 。	i m exhausted .
+くたくた に 疲れ た 。	i m exhausted .
+疲れ た ー 。	i m exhausted .
+妊娠 し て い ます 。	i m expecting .
+私 は 気 が 短い ん だ 。	i m impatient .
+待ち きれ ない ！	i m impatient .
+私 は ボストン に い ます 。	i m in boston .
+私 は ただ ずぼら な だけ です 。	i m just lazy .
+子ども 扱い する な よ 。	i m not a kid .
+私 は 一 人 じゃ ない 。	i m not alone .
+怒っ て ませ ん よ 。	i m not angry .
+ダイエット 中 です 。	i m on a diet .
+満足 し て い ます 。	i m satisfied .
+まだ 未婚 です 。	i m unmarried .
+目 が 回る ほど 忙しい よ 。	i m very busy .
+反対 票 を 投じる つもり だ 。	i m voting no .
+彼女 は 行動 的 です 。	she is active .
+彼 は ゴルファー だ 。	he is a golfer .
+彼 は 繊細 だ 。	he is delicate .
+彼 は 東京 に い ます 。	he is in tokyo .
+彼 は 暮し向き が 良い 。	he is well off .
+こいつ 、 ちょっと 引っ込み思案 な ん だ 。	he s a bit shy .
+彼 は 私 の 友達 です 。	he s my friend .
+くたくた に 疲れ まし た 。	i am exhausted .
+くたくた に 疲れ た 。	i am exhausted .
+私 は 背 が 低 すぎる 。	i am too short .
+私 は 捕虜 です 。	i m a prisoner .
+私 は スタントマン です 。	i m a stuntman .
+私 は 反対 です 。	i m against it .
+大 賛成 です 。	i m all for it .
+僕 は 車 に い ます 。	i m in the car .
+僕 は トム に 怒っ て いる 。	i m mad at tom .
+私 は 英雄 など で は ない 。	i m not a hero .
+私 は 無実 だ 。	i m not guilty .
+お腹 は 空い て い ませ ん 。	i m not hungry .
+私 は 服 を 脱い で いる 。	i m undressing .
+本当に ゴメン よ 。	i m very sorry .
+くたくた に 疲れ まし た 。	i m very tired .
+私 は 大変 疲れ て い ます 。	i m very tired .
+彼女 は ダイエット を し て いる 。	she is dieting .
+彼女 は 無実 だ 。	she s innocent .
+あなた は 運 が いい 。	you re in luck .
+嘘 だろ ？	you re kidding !
+彼 は 教師 です 。	he is a teacher .
+彼 は 非常 に 親切 だ 。	he is very kind .
+彼 は 大 嘘つき だ 。	he s a big liar .
+彼 は 私 に 親切 だ 。	he s kind to me .
+彼 は 40 過ぎ です 。	he s over forty .
+彼 は とても 臆病 だ 。	he s very timid .
+お腹 は 空い て い ませ ん 。	i am not hungry .
+少し 疲れ た 。	i m a bit tired .
+私 は 主婦 です 。	i m a housewife .
+私 は 夜 型 の 人間 です 。	i m a night owl .
+頼む よー 。	i m begging you .
+カナダ から 来 まし た 。	i m from canada .
+行く よ 。	i m going to go .
+今 から 出 ます 。	i m leaving now .
+お腹 が ぺこぺこ です 。	i m very hungry .
+私 は とても 寂しい 。	i m very lonely .
+すごく 眠い 。	i m very sleepy .
+彼ら は 俳優 です 。	they are actors .
+私 たち は ボストン に い ます 。	we re in boston .
+わたし たち は 急い で い ます 。	we re in a rush .
+君 は 天使 の よう な 人 だ ！	you re an angel .
+あなた って 本当に 細かい わ ね 。	you re so picky .
+彼 は 彼女 の 友達 です 。	he is her friend .
+彼 は 太り 過ぎ て いる 。	he is overweight .
+彼 は つきあい が 悪い 。	he is unsociable .
+彼 は 非 社交 的 だ 。	he is unsociable .
+彼 は かんかん に 怒っ て いる 。	he is very angry .
+彼 は いつも 忙しい 。	he s always busy .
+家 に は い ない 。	he s not at home .
+彼 は 私 の タイプ で は ない 。	he s not my type .
+彼 は まだ 若い 。	he s still young .
+彼 は とても 丈夫 だ 。	he s very strong .
+私 は 少し 酔っ て いる 。	i am a bit drunk .
+私 は 主婦 です 。	i am a housewife .
+フランス から 来 まし た 。	i am from france .
+僕 も もう 大人 だ 。	i m an adult now .
+やっ て みる つもり だ 。	i m going to try .
+私 は 数学 が 得意 だ 。	i m good at math .
+僕 は これ が 得意 だ 。	i m good at this .
+見 て いる だけ だ 。	i m just looking .
+ちょっと 見 て いる だけ です 。	i m just looking .
+見 て いる だけ です 。	i m just looking .
+見 てる だけ です 。	i m just looking .
+時間 を つぶし て いる だけ です 。	i m killing time .
+僕 は そんなに 勇敢 じゃ ない 。	i m not so brave .
+僕 は あなた の 側 に つき ます 。	i m on your side .
+本当に ごめんなさい 。	i m really sorry .
+くたくた に 疲れ まし た 。	i m really tired .
+くたくた に 疲れ た 。	i m really tired .
+超 腹 減っ た 。	i m super hungry .
+彼女 は 教師 だ 。	she is a teacher .
+彼女 は とても 賢い 人 だ 。	she is very wise .
+君たち は 子ども だ 。	you are children .
+彼 は 勇敢 な 男 だ 。	he is a brave man .
+彼 は 刑事 だ 。	he is a detective .
+彼 は 紳士 で ある 。	he is a gentleman .
+彼 は 科学 者 です 。	he is a scientist .
+彼 は ４ ０ 歳 くらい です 。	he is about forty .
+彼 は 机 に 向かっ て いる 。	he is at his desk .
+彼 は その チーム の 所属 だ 。	he is on the team .
+彼 は まだ 生き て いる 。	he is still alive .
+彼 は とても 正直 だ 。	he is very honest .
+彼 は 今 い ませ ん 。	he isn t here now .
+彼 は まだ 来 ない 。	he isn t here yet .
+彼 は ひどく 臆病 だ 。	he s a big coward .
+彼 は 元気 そう だ 。	he s looking good .
+彼 は まだ 来 ない 。	he s not here yet .
+彼 は 勉強 中 です 。	he s now studying .
+彼 は いま 泳い で い ます 。	he s swimming now .
+僕 は ベジタリアン だ 。	i am a vegetarian .
+もう 寝 ます 。	i am going to bed .
+俺 は お前 と は 違う ん だ 。	i am not like you .
+私 は 人間 だ 。	i m a human being .
+少し 忙しい 。	i m a little busy .
+私 は 今 、 一人ぼっち です 。	i m all alone now .
+くたくた に 疲れ た 。	i m awfully tired .
+ま 、 ちょっと 幸せ だ 。	i m kind of happy .
+私 は 不満 です 。	i m not satisfied .
+私 は 最高 に 幸せ だ 。	i m on cloud nine .
+ものすごく お腹 が すい て いる 。	i m really hungry .
+超 腹 減っ た 。	i m really hungry .
+私 は とても 寂しい 。	i m really lonely .
+彼女 は 気 が 強い 。	she is aggressive .
+彼女 は オシャレ だ 。	she s fashionable .
+彼女 は フランス 出身 です 。	she s from france .
+彼女 は フランス 出身 だ 。	she s from france .
+彼女 は とても 綺麗 な 人 です 。	she s very pretty .
+彼ら は メタル で は ない 。	they re not metal .
+面白く あり ませ ん 。	we are not amused .
+最低 ！	you re disgusting .
+お前 は 包囲 さ れ て いる 。	you re surrounded .
+百 も 承知 です 。	you re telling me .
+彼 は バス の 運転 手 だ 。	he is a bus driver .
+彼 は 働き者 だ 。	he is a work horse .
+彼 は ほぼ 私 の 年 です 。	he is about my age .
+彼 は ゴルフ が うまい 。	he is good at golf .
+彼 は 私 の 級友 です 。	he is my classmate .
+あれ は 医者 で は あり ませ ん 。	he is not a doctor .
+彼 は ゴルフ を し て いる 。	he is playing golf .
+彼 は きっと 来る と 思う 。	he is sure to come .
+彼 は 頭 が 固い 。	he is thick headed .
+彼 は とても 用心深い 。	he is very careful .
+彼 は 私 の いとこ で ない 。	he isn t my cousin .
+優しい 人 です 。	he s a kind person .
+彼 は トランプ が うまい 。	he s good at cards .
+彼 は 私 の 初恋 の 人 です 。	he s my first love .
+非常 に 困っ て い ます 。	i am in deep water .
+私 は 教師 で は ない 。	i am not a teacher .
+私 は 少し 疲れ て いる 。	i m a little tired .
+私 は 猫 が こわい 。	i m afraid of cats .
+私 は 犬 が 恐い 。	i m afraid of dogs .
+私 は 仕事 で 忙しい 。	i m busy with work .
+平気 だ よ 。	i m cool with that .
+日曜日 は 暇 です 。	i m free on sunday .
+日曜日 は あい て ます 。	i m free on sunday .
+私 は オーストラリア 出身 です 。	i m from australia .
+オーストラリア から 来 まし た 。	i m from australia .
+シンガポール から やって来 まし た 。	i m from singapore .
+シンガポール から 来 まし た 。	i m from singapore .
+私 は 音楽 を 習い ます 。	i m learning music .
+怖く なんて ない さ 。	i m not frightened .
+私 は お金 不足 だ 。	i m short of money .
+見 て いる だけ です 。	i m simply looking .
+遅く なっ て ごめんなさい 。	i m sorry i m late .
+そろそろ 行く わ ね 。	i m taking off now .
+大変 失礼 いたし まし た 。	i m terribly sorry .
+彼女 は 彼 を 手伝っ て い ます 。	she is helping him .
+彼女 は 彼 に 優しい 。	she is kind to him .
+彼女 は 意識 を 失っ て い ます 。	she is unconscious .
+彼女 は とても 賢い 人 だ 。	she is very clever .
+彼女 は とても 綺麗 な 人 です 。	she is very pretty .
+彼女 は 意地 悪女 だ 。	she s a big teaser .
+在庫 が あり ませ ん 。	we re out of stock .
+ずぶ濡れ じゃ ない か 。	you re soaking wet .
+あなた は とても ずるい 。	you re very astute .
+彼 は 速い ランナー だ 。	he is a fast runner .
+彼 は 足 が 速い 。	he is a fast runner .
+彼 は 働き者 だ 。	he is a hard worker .
+彼 は ラグビー が 得意 だ 。	he is good at rugby .
+彼 は 自信 過剰 だ 。	he is overconfident .
+彼 は そこ で 遊ん で い ます 。	he is playing there .
+彼 は うそ を つい て いる 。	he is telling a lie .
+彼 は なかなか の 男前 だ 。	he is very handsome .
+彼 は 大器晩成 だ 。	he s a late bloomer .
+彼 の 振る舞い は 奇妙 で ある 。	he s behaving oddly .
+彼 の 機嫌 を 取る の は 難しい 。	he s hard to please .
+彼 は 台所 だ よ 。	he s in the kitchen .
+彼 は キッチン に いる 。	he s in the kitchen .
+彼 は 犬 が 恐い 。	he s scared of dogs .
+めっちゃ 恥ずかしい 。	i am deeply ashamed .
+私 は 彼女 と 婚約 中 だ 。	i am engaged to her .
+私 の 方 が 彼 より 年上 です 。	i am older than him .
+頼り に し てる よ 。	i m counting on you .
+頼り に し て ます 。	i m counting on you .
+へとへと に 疲れ た 。	i m extremely tired .
+フランス語 を 勉強 し て い ます 。	i m learning french .
+私 は もう 疲れ て い ませ ん 。	i m no longer tired .
+ぜんぜん 疲れ て い ませ ん 。	i m not a bit tired .
+私 は 英語 に うんざり だ 。	i m sick of english .
+仕事 に 行き詰まっ た 。	i m stuck in my job .
+フランス語 の 勉強 を し て い ます 。	i m studying french .
+私 は 君 より 背 が 高い 。	i m taller than you .
+お腹 が ぺこぺこ です 。	i m terribly hungry .
+屋根裏 部屋 に いる よ 。	i m up in the attic .
+今 とても 眠い 。	i m very sleepy now .
+彼女 は ちょっと 奥手 な ん だ 。	she is a little shy .
+彼女 は だいたい 私 と 同じ 年 だ 。	she is about my age .
+彼女 は 人 が いい 。	she is good natured .
+優しい 人 です 。	she s a kind person .
+彼女 は まだ 未成年 だ 。	she s still a minor .
+彼女 は 帽子 を 被っ て いる 。	she s wearing a hat .
+やっと 二 人 に なれ た ね 。	we re finally alone .
+君 は 仕事 の 鬼 だ 。	you re a workaholic .
+彼 は 怠惰 な 学生 だ 。	he is a lazy student .
+彼 は 犬 が 恐い 。	he is afraid of dogs .
+彼 って 、 格好いい よ ね 。	he is cool isn t he ?
+彼 は 勉強 中 です 。	he is doing his work .
+彼 は 今 困っ て いる 。	he is in trouble now .
+彼 は おそらく 来る だろ う 。	he is likely to come .
+彼 は もう ここ に は い ない 。	he is no longer here .
+彼 は 自立 し た 。	he is now on his own .
+彼 は ８ 歳 だ 。	he s eight years old .
+彼 は 肺 ガン に なっ た 。	he s got lung cancer .
+死ぬ の が 怖い 。	i am afraid of dying .
+私 は もう 疲れ て い ませ ん 。	i am no longer tired .
+お腹 が ぺこぺこ です 。	i am terribly hungry .
+私 は 断然 ウィンドウズ 派 。	i m a windows person .
+始める 準備 は でき て いる 。	i m all set to start .
+死ぬ ほど 会い たい 。	i m dying to see you .
+俺 は 彼女 が 好き だ 。	i m in love with her .
+私 は 英語 を 勉強 中 です 。	i m learning english .
+私 は 泳げ ませ ん 。	i m not able to swim .
+私 は 全然 疲れ て い ませ ん 。	i m not at all tired .
+ぜんぜん 疲れ て い ませ ん 。	i m not at all tired .
+傷つけ て しまっ て 、 ごめんなさい 。	i m sorry i hurt you .
+まだ トム と 付き合っ てる 。	i m still seeing tom .
+わたし は まだ 凄く 疲れ て いる 。	i m still very tired .
+12 歳 です 。	i m twelve years old .
+彼女 は 話 が 下手 です 。	she is a bad speaker .
+彼女 は 文章 が うまい 。	she is a good writer .
+彼女 は 本当に 美人 だ 。	she is a real beauty .
+彼女 は 走る の が 遅い 。	she is a slow runner .
+彼女 は 機嫌 が 悪い 。	she is in a bad mood .
+彼女 は 海外 に 住ん で いる 。	she is living abroad .
+彼女 は トム と 同じ くらい 忙しい 。	she s as busy as tom .
+彼女 は 大変 忙しかっ た 。	she s been very busy .
+彼女 は 旅行 へ 行っ て い ます 。	she s gone on a trip .
+彼女 は トム より 年上 だ 。	she s older than tom .
+彼女 は 彼 より 年上 です 。	she s older than him .
+いつ でも 出かけ られ ます 。	we re ready to leave .
+あなた は 日本人 で は あり ませ ん 。	you are not japanese .
+単なる 推測 だろ 。	you re just guessing .
+立志伝 中 の 人 。	he is a self made man .
+彼 は 相変わらず 忙しい 。	he is as busy as ever .
+彼 は 料理 が 上手 だ 。	he is good at cooking .
+彼 は 今 机 の ところ に いる 。	he is now at the desk .
+彼 は きっと 成功 する 。	he is sure of success .
+彼 は 商用 で 出かけ て 留守 だ 。	he s away on business .
+彼 は 今 食事 中 です 。	he s eating lunch now .
+彼 が 唯一 の 容疑 者 だ 。	he s our only suspect .
+私 は あなた に 会え て 嬉しい です 。	i am glad to meet you .
+私 は 教室 に いる 。	i am in the classroom .
+ちょっと 混乱 し て い ます 。	i m a little confused .
+トム が それ を 気に入っ て うれしい です 。	i m glad tom liked it .
+私 は 最高 に 幸せ だ 。	i m in seventh heaven .
+もう 子供 じゃ ない よ 。	i m not a kid anymore .
+遅れ て 申し訳 あり ませ ん 。	i m sorry i m so late .
+今 ちょっと 手 が 離せ ない 。	i m tied up right now .
+彼女 は いつ でも にこにこ し て いる 。	she is always smiling .
+彼女 は 早起き だ 。	she is an early riser .
+彼女 は 五 歳 です 。	she is five years old .
+彼女 は 来る だろ う 。	she is likely to come .
+彼女 は ドレス を 縫っ て いる 。	she is sewing a dress .
+彼女 は ひ弱 な 体質 だ 。	she is weak by nature .
+彼女 は 料理 が 上手 で は ない 。	she isn t a good cook .
+彼女 は ８ 才 だ 。	she s eight years old .
+彼女 は お 手洗い に い ます 。	she s in the restroom .
+彼女 は 今 家 に い ませ ん 。	she s not at home now .
+頭 が 悪い ね 、 君 。	you aren t very smart .
+彼 は 大工 仕事 が うまい 。	he is a good carpenter .
+彼 は 腕 の 良い 大工 だ 。	he is a good carpenter .
+あいつ は 苦手 だ 。	he is a tough customer .
+彼 は 蛇 を 怖がっ て いる 。	he is afraid of snakes .
+彼 は ヘビ を 恐れ て いる 。	he is afraid of snakes .
+彼 は 活動 的 な 人 だ 。	he is an active person .
+彼 は 野心 に 満ち て いる 。	he is full of ambition .
+彼 は 彼女 に 恋し て いる 。	he is in love with her .
+彼 は 外 で 遊ん で い ます 。	he is playing outdoors .
+彼 は 数学 が 全く だめ だ 。	he is terrible at math .
+彼 は 読書 に 飽き た 。	he is tired of reading .
+彼 は 今 家 に い ます 。	he s at home right now .
+彼 は 君 より 強い 。	he s stronger than you .
+私 は 来週 出発 し ます 。	i am leaving next week .
+私 は 日本 の 学生 です 。	i m a japanese student .
+僕 は グルテン に アレルギー が ある 。	i m allergic to gluten .
+私 は 最高 に 幸せ だ 。	i m as happy as can be .
+今 、 忙しい の 。	i m busy at the moment .
+お 役 に 立て て よかっ た です 。	i m happy i could help .
+君 が い なく て 寂しい よ 。	i m lonely without you .
+私 は 、 かなづち です 。	i m not a good swimmer .
+フランス語 は 得意 じゃ あり ませ ん 。	i m not good at french .
+私 は テニス が 下手 だ 。	i m not good at tennis .
+少々 自慢 な の です 。	i m rather proud of it .
+彼女 は 有名 な 歌手 だ 。	she is a famous singer .
+彼女 は 遅刻 魔 だ 。	she is habitually late .
+彼女 に は 助け が 必要 だ 。	she is in need of help .
+彼女 は お 風呂 に い ます 。	she is in the bathroom .
+彼女 は 彼 より 頭 が 切れる 。	she s smarter than him .
+彼 は とっつき やすい 人 だ 。	he is a friendly person .
+彼 は 偉大 な 科学 者 だ 。	he is a great scientist .
+彼 は 高い 給料 を もらっ て いる 。	he is a highly paid man .
+彼 は スポーツ の 愛好 者 だ 。	he is a lover of sports .
+彼 は 画家 の よう な もの だ 。	he is a sort of painter .
+彼 は その 犬 が 恐い 。	he is afraid of the dog .
+彼 は あいかわらず 丈夫 だ 。	he is as strong as ever .
+彼 は 絵 を かい て いる 。	he is drawing a picture .
+彼 は 中国語 が 流暢 で ある 。	he is fluent in chinese .
+彼 は 仕事 を 探し て いる 。	he is looking for a job .
+彼 は とても 頑健 だ 。	he is strong as a horse .
+彼 は 旅 慣れ て いる 。	he is used to traveling .
+彼 は 孤独 で は なくなり まし た 。	he isn t lonely anymore .
+彼 は その 犬 を 怖がっ て いる 。	he s afraid of that dog .
+彼 は その 犬 を 恐れ て いる 。	he s afraid of that dog .
+彼 は その 犬 を 怖がっ て いる 。	he s scared of that dog .
+彼 は 今本 を 書い て い ます 。	he s writing a book now .
+私 は 現実 的 な 人間 だ 。	i am a realistic person .
+私 は 最高 に 幸せ だ 。	i am as happy as can be .
+私 は 彼 に 愛想 が つき た 。	i am disgusted with him .
+君 に は うんざり し た よ 。	i am disgusted with you .
+君 に は あきれ た 。	i am disgusted with you .
+悲しみ で 胸 が いっぱい だ 。	i am filled with sorrow .
+私 は 最も 速い 走者 です 。	i am the fastest runner .
+私 は 宿題 で 忙しい 。	i m busy doing homework .
+君 に は がっかり だ よ 。	i m disappointed in you .
+君たち に は がっかり だ よ 。	i m disappointed in you .
+私 は 妻 一筋 です 。	i m faithful to my wife .
+私 は 英語 に うんざり だ 。	i m fed up with english .
+喜ん で いただけ て よかっ た です 。	i m glad you enjoyed it .
+私 は 昼寝 し ます 。	i m going to take a nap .
+今 フランス語 を 学ん で い ます 。	i m learning french now .
+トム が 行く なら 行か ない 。	i m not going if tom is .
+８ 階 に い ます 。	i m on the eighth floor .
+あなた に 会え て うれしい 。	i m pleased to meet you .
+人 を 待っ てる ん です 。	i m waiting for someone .
+彼女 は わがまま な 人 だ 。	she is a selfish person .
+彼女 は とても 忙しい 。	she is as busy as a bee .
+彼女 は 風邪 で 寝 て いる 。	she is down with a cold .
+彼女 は 白い 服 を 着 て いる 。	she is dressed in white .
+彼女 は 用事 で 外出 中 です 。	she is out on an errand .
+彼女 は とても 勉強 熱心 です 。	she is very hardworking .
+彼女 は 非常 に 頭 が 良い 。	she is very intelligent .
+彼女 は 大変 頭 が いい 。	she is very intelligent .
+彼女 は とても 頭 が 良い 。	she is very intelligent .
+彼女 は とても 知的 な 人 だ 。	she is very intelligent .
+彼女 は その 仕事 に 不向き だ 。	she s unfit for the job .
+彼ら は 木の実 を 拾い 集め て いる 。	they are gathering nuts .
+あなた は 素敵 な コック さん です ね 。	you re a wonderful cook .
+全く おっしゃる 通り です 。	you re absolutely right .
+君 の 言う とおり だ 。 ごめん 。	you re right i m sorry .
+彼 は なかなか 立派 だ 。	he is a pretty great guy .
+彼 は 泳ぐ の が 怖い 。	he is afraid of swimming .
+彼 は いつも 不平 ばかり 言っ て いる 。	he is always complaining .
+彼 は スキー に 夢中 で ある 。	he is crazy about skiing .
+彼 は 医者 として 有名 だ 。	he is famous as a doctor .
+彼 は 単なる 愚か者 で しか ない 。	he is nothing but a fool .
+彼 は 私 より 力 が 強い 。	he is stronger than i am .
+彼 は とても 怠け者 だ 。	he is such a lazy fellow .
+彼 は 変わっ た 人 だ 。	he s a strange character .
+彼 は 今 礼拝 中 だ 。	he s at church right now .
+彼 は 今 小説 を 読ん で いる 。	he s reading a novel now .
+ここ を 離れる ところ です 。	i am about to leave here .
+彼 の こと は 見知っ て いる 。	i am acquainted with him .
+私 は あなた に 会え て 嬉しい です 。	i am pleased to meet you .
+大学生 です 。	i m a university student .
+私 は その 結婚 に は 反対 だ 。	i m against the marriage .
+アメリカンフットボール に 夢中 な ん だ 。	i m crazy about football .
+来週 帰り ます 。	i m going home next week .
+トム を 拾う つもり だ 。	i m going to pick tom up .
+がっかり さ せ て ごめん ね 。	i m sorry i let you down .
+お手数 を おかけ し て すみません 。	i m sorry to trouble you .
+興奮 し すぎ て 眠れ ない 。	i m too excited to sleep .
+彼女 は 大学生 です 。	she is a college student .
+彼女 は 信頼 できる 人 だ 。	she is a reliable person .
+彼女 は 料理 が 恐ろしく 下手 だ 。	she is an appalling cook .
+彼女 は 実に いい 子 だ 。	she s a really nice girl .
+彼女 は 流行 に とらわれ て いる 。	she s a slave to fashion .
+彼女 は 暗闇 を 恐れる 。	she s afraid of the dark .
+彼女 は アイシャドー を つけ て いる 。	she s wearing eye shadow .
+それ は とても 大きな りんご な ん です 。	they are very big apples .
+あなた は とても 元気 そう です ね 。	you re looking very well .
+嘘 ついてる でしょ 。	you re lying aren t you ?
+考え すぎ だ よ 。	you re thinking too much .
+彼 は 金 使い が 荒い 。	he is free with his money .
+彼 は ファビョ り 癖 が ある 。	he is inclined to get mad .
+彼 は 過労 で ある 。	he is tired from overwork .
+彼 は とても 丈夫 だ 。	he s as strong as a horse .
+彼 は 凧 上げ が うまい 。	he s good at flying kites .
+彼 は 逆立ち し て いる 。	he s standing on his head .
+大学生 です 。	i am a university student .
+私 は 英語 が 読める 。	i am able to read english .
+シャツ を 掛け て いる ところ です 。	i am hanging up my shirts .
+私 は 関与 し て い ない 。	i am not getting involved .
+あなた に 会え て 大変 うれしい 。	i am very glad to see you .
+宿題 で 忙しい 。	i m busy with my homework .
+忙しい ので 手伝え ませ ん 。	i m busy so i can t help .
+ちょっと お 手洗い に 行っ て き ます 。	i m going to the restroom .
+私 は 高校 2 年生 だ 。	i m in the eleventh grade .
+トム に 話しかける の が 怖い 。	i m scared to talk to tom .
+昨日 は ごめん ね 。	i m sorry about yesterday .
+トム なら きっと 助け て くれる 。	i m sure tom will help us .
+彼女 は 流行 に とらわれ て いる 。	she is a slave of fashion .
+彼女 は 全く 美しく ない 。	she is far from beautiful .
+彼女 は １ ７ 歳 です 。	she s seventeen years old .
+二 人 は 部屋 に い ます 。	they are both in the room .
+私 たち は ここ を 発つ ところ です 。	we re about to leave here .
+全く おっしゃる 通り です 。	you re absolutely correct .
+彼 は 英語 の 先生 です 。	he is a teacher of english .
+彼 は 仕事 に 熱中 し て いる 。	he is absorbed in his work .
+彼 は つり の 専門 家 だ 。	he is an expert at fishing .
+彼 は 野球 に 熱中 し て いる 。	he is crazy about baseball .
+彼 は 今 パリ に 滞在 中 です 。	he is now staying in paris .
+彼 は 高校 の 生徒 です 。	he s a high school student .
+彼 は 高校生 です 。	he s a high school student .
+彼 に は 多く の 才能 が ある 。	he s a man of many talents .
+彼 は とても 利己 的 な 男 だ 。	he s a very selfish person .
+彼 は いつも 金欠 だ 。	he s always short of money .
+彼 は 以前 の 彼 と は 違う 。	he s different from before .
+彼 は 冗談 が うまい 。	he s good at telling jokes .
+彼 は トム より ずっと 若い 。	he s much younger than tom .
+彼 は 公園 の どこ か に いる 。	he s somewhere in the park .
+私 は ちょうど 散歩 に 出かける ところ です 。	i am just going for a walk .
+冷たい もの を 飲み たく て たまらない 。	i m dying for a cold drink .
+あなた が 来ら れる ので うれしい 。	i m glad that you can come .
+私 は 今 香港 に い ます 。	i m in hong kong right now .
+ラジオ を 聞い て い ます 。	i m listening to the radio .
+お話 中 失礼 し ます 。	i m sorry to interrupt you .
+私 は 末っ子 です 。	i m the baby of the family .
+今日 も とても 眠い 。	i m very sleepy today too .
+私 も トム が 心配 です 。	i m worried about tom too .
+彼女 は 針仕事 が 上手 だ 。	she is handy with a needle .
+私 たち は ここ を 発つ ところ です 。	we are about to leave here .
+私 たち は ここ を 出る ところ です 。	we are about to leave here .
+全く おっしゃる 通り です 。	you are absolutely correct .
+彼 は 小説 家 兼 画家 で ある 。	he is a novelist and artist .
+彼 は 前途 有望 な 青年 だ 。	he is a promising young man .
+彼 は 今日 は 上機嫌 だ 。	he is in high spirits today .
+ただ 君 を からかっ て いる だけ だ 。	he is just pulling your leg .
+彼 は 都会 生活 に あこがれ て いる 。	he is longing for city life .
+彼 は その 一族 に 縁 が ある 。	he is related to the family .
+彼 は まだ ぴんぴん し て いる 。	he is still very much alive .
+彼 は 川 で 泳い で い ます 。	he is swimming in the river .
+私 は 新車 を 買う つもり です 。	i am going to buy a new car .
+私 は 高校 2 年生 だ 。	i m a junior in high school .
+海辺 で 休暇 を 過ごし て いる 。	i m at the beach on holiday .
+私 は 今本 を 書く の に 忙しい 。	i m now busy writing a book .
+公園 を 散歩 し て い ます 。	i m taking a walk in a park .
+これ について は とても 不満 です 。	i m very unhappy about this .
+ウェイト が 心配 だ 。	i m worried about my weight .
+彼女 は アメリカ 人 として 生まれ た 。	she is an american by birth .
+彼女 が 賞 を 取り そう だ 。	she is apt to win the prize .
+彼女 は 旅行 を 計画 し て いる 。	she is contemplating a trip .
+彼女 は 子供 達 に やさしい 。	she is gentle with children .
+彼女 に 子供 が でき た 。	she is going to have a baby .
+彼女 は 今日 、 元気 が ない 。	she is in low spirits today .
+彼ら は 大体 同じ 年齢 です 。	they are about the same age .
+彼ら は いつも 不平 ばかり 言っ て いる 。	they are always complaining .
+嵐 に なる だろ う 。	we re going to have a storm .
+君 、 顔面 蒼白 だ よ 。	you are as white as a sheet .
+あんた は 世話 の 焼ける ひと だ ね 。	you re a troublesome person !
+あなた は 本当に 頑張り 屋 さん だ 。	you re really a hard worker .
+彼 の 職業 は 医師 だ 。	he is a doctor by profession .
+彼 は 赤 の 他人 だ よ 。	he is a total stranger to me .
+彼 は 見聞 の 広い 人 だ 。	he is a well informed person .
+彼 は フルート を 吹く こと が 出来る 。	he is able to play the flute .
+彼 は 日本語 を 話す こと が できる 。	he is able to speak japanese .
+彼 は いつも 学校 に 遅れる 。	he is always late for school .
+彼 は 経験 豊か な 教師 だ 。	he is an experienced teacher .
+彼 は 経済 の 専門 家 だ 。	he is an expert in economics .
+彼 は 本当 の 紳士 だ 。	he is every inch a gentleman .
+彼 は 乗馬 が 得意 だ 。	he is good at riding a horse .
+彼 が その 学級 の 担任 だ 。	he is in charge of the class .
+彼 は ラジオ を 聞い て いる 。	he is listening to the radio .
+彼 は 昔 の 彼 で は ない 。	he is not what he used to be .
+彼 は 以前 と は 違う 。	he is not what he used to be .
+昔 は あんな 人 で は なかっ た 。	he is not what he used to be .
+彼 は ホテル の 経営 者 です 。	he is the manager of a hotel .
+彼 は 大変 重要 な 人物 です 。	he s a very important person .
+彼 は いつも 会議 に 遅れ て くる 。	he s always late to meetings .
+彼 は バス停 で 待っ て ます 。	he s waiting at the bus stop .
+私 は 乞食 も 同然 だ 。	i am no better than a beggar .
+今 ちょっと 金欠 な ん だ よ 。	i m a bit short of money now .
+本当は 楽しく 過ごし て い ます 。	i m actually enjoying myself .
+１ １ 時 の 電車 に 乗り ます 。	i m catching the 11 00 train .
+待た せ て ごめん 。	i m sorry i kept you waiting .
+早起き に は 慣れ て いる 。	i m used to getting up early .
+彼女 は 信頼 できる 人 だ 。	she is someone you can trust .
+お父さん に そっくり だ ね 。	you re just like your father .
+お 父様 に そっくり です ね 。	you re just like your father .
+彼 は ギター を 弾く こと が できる 。	he is able to play the guitar .
+彼 は いつも 名声 を 追っ て いる 。	he is always going after fame .
+彼 は 私 にとって 理想 の 夫 です 。	he is an ideal husband for me .
+彼 は とても できる 生徒 だ 。	he is by far the best student .
+彼 は 常識 に 欠け て いる 。	he is lacking in common sense .
+彼 は また 遅刻 し そう だ 。	he is likely to be late again .
+父親 に そっくり だ 。	he is the image of his father .
+彼 は 頼り に なる 男 だ 。	he is the man you can rely on .
+彼 は 言う こと が くるくる 変わる 。	he s always changing his mind .
+先日 は ごめんなさい 。	i m sorry about the other day .
+がっかり さ せ て ごめん ね 。	i m sorry that i let you down .
+彼女 は 吠える 犬 を 怖がる 。	she is afraid of barking dogs .
+彼女 は ほえる 犬 が 恐い 。	she is afraid of barking dogs .
+彼女 は 本当に 賢い よ ね ？	she s really smart isn t she ?
+彼 は 自分 の 影 に も おびえる 。	he is afraid of his own shadow .
+彼 は しばしば 学校 を 休み ます 。	he is often absent from school .
+彼 は ちょっとした 有名人 です 。	he is something of a celebrity .
+彼 は かっと なり やすい 。	he is subject to fits of anger .
+彼 は １ 日 中 働い て いる 。	he s been working all day long .
+あなた に ここ で ひょっこり 出会え て うれしい 。	i am glad to run into you here .
+お 役 に 立て て うれしい です 。	i m glad i could be of service .
+申し訳 ない けど 、 でき ませ ん 。	i m sorry but it s impossible .
+私 は 自炊 に 慣れ て いる 。	i m used to cooking for myself .
+君 と 知り合え て とても 嬉しい よ 。	i m very happy to have met you .
+彼女 は いわゆる 天才 だ 。	she is what is called a genius .
+彼女 は その 仕事 に 不向き だ 。	she isn t adequate to the task .
+彼 は ロンドン へ 出発 する ところ だ 。	he is about to leave for london .
+彼 は テニス に 夢中 だ 。	he is enthusiastic about tennis .
+彼 は もうすぐ 父 に なる 。	he is going to be a father soon .
+彼 は 父親 ほど 背 が 高く ない 。	he is not as tall as his father .
+彼 は 自動車 を 運転 できる 年齢 だ 。	he is old enough to drive a car .
+彼 は 彼女 より ３つ 年上 です 。	he s three years older than her .
+彼 は 登山 に なれ て いる 。	he s used to climbing mountains .
+私 は これから 少し 休憩 し ます 。	i m going to take a short break .
+私 は 明日 カナダ に 出発 し ます 。	i m leaving for canada tomorrow .
+こんな 格好 で すみません 。	i m sorry i m dressed like this .
+申し訳 あり ませ ん 、 ただいま 満室 です 。	i m sorry we have no vacancies .
+彼 の 説教 に は うんざり だ 。	i m tired of him bawling me out .
+彼女 は 友人 たち と 遊ん で いる 。	she is playing with her friends .
+彼女 は 大変 気前 が いい 。	she is very free with her money .
+料理 うまい ね 。	you are a good cook aren t you ?
+彼 は 常に 一生懸命 働く 。	he is accustomed to working hard .
+彼 は もう そろそろ 帰る はず だ 。	he is expected to come home soon .
+彼 は 妻 と 別居 し て いる 。	he is living apart from his wife .
+彼 は 臆病者 に すぎ ない 。	he is nothing more than a coward .
+彼 は 名ばかり の 会長 だ 。	he is the president in name only .
+彼 は 親父 と そっくり だ 。	he s a carbon copy of his father .
+彼 は おやじ に そっくり だ 。	he s a carbon copy of his father .
+彼 は ヘビ を 全く 怖がら ない 。	he s not at all afraid of snakes .
+さっと シャワー 浴び て くる 。	i m going to take a quick shower .
+パーティー が 楽しみ だ 。	i m looking forward to the party .
+私 は 彼 より 2 歳 若い 。	i m two years younger than he is .
+彼女 は 来年 六 歳 に なる 。	she is going to be six next year .
+彼女 は とても 利口 だ 。	she s as clever as they make em .
+私 に対して 怒っ てる ん でしょ う 。	you re angry with me aren t you ?
+彼 は 英語 が うまい 。	he is such a good english speaker .
+私 は 水泳 部 の 部員 です 。	i m a member of the swimming club .
+私 は 部屋 探し に 忙しい 。	i m busy looking for an apartment .
+彼 と 会う の が 楽しみ だ なあ 。	i m looking forward to seeing him .
+彼女 は いつも 手紙 を 書い て いる 。	she is constantly writing letters .
+彼女 は 写真 家 だ 。	she s a professional photographer .
+彼ら は 川 で 泳い で ませ ん 。	they aren t swimming in the river .
+考え すぎ だ よ 。	you re reading too much into this .
+彼 は タイム 誌 の 記者 です 。	he is a reporter for time magazine .
+彼 は 彼女 より ３つ 年上 です 。	he s three years older than she is .
+彼 は 彼女 より 三つ 上 です 。	he s three years older than she is .
+彼 は 彼女 より 三 歳 年上 です 。	he s three years older than she is .
+彼 は いわゆる 優等生 だ 。	he s what we call an honor student .
+僕 は 友だち は １ 人 で いい 。	i m ok with having just one friend .
+ちょっと コンビニ 行っ て くる ね 。	i m going to the convenience store .
+お 待た せ し まし た 。	i m sorry to have kept you waiting .
+最近 この 仕事 に かかり きり です 。	i m tied up with this job recently .
+彼女 の 英語 は ペラペラ だ 。	she is a fluent speaker of english .
+彼女 は 流暢 に 英語 を 話す 。	she is a fluent speaker of english .
+彼 は 普通 の サラリーマン だ 。	he s just an ordinary office worker .
+私 は 新車 が とても 気に入っ て いる 。	i am really pleased with my new car .
+明日 の 準備 で 忙しい 。	i m busy getting ready for tomorrow .
+彼 が い なく て がっかり です 。	i m disappointed that he s not here .
+君 は 心 の 狭い 女 だ な 。	you re one narrow minded individual .
+考え すぎ だ よ 。	you re reading too much into things .
+彼 は まだ 両親 に 頼っ て いる 。	he is still dependent on his parents .
+彼 は 私 より 三つ 年下 です 。	he is younger than me by three years .
+彼 は 付き合い にくい 人 だ 。	he s a difficult person to deal with .
+私 は 夏 に 北海道 に 行き ます 。	i am going to hokkaido in the summer .
+この データ は 信用 でき ない と 思う 。	i m afraid this data is not reliable .
+ごめんなさい 、 別 の 約束 が ある の 。	i m sorry i have another engagement .
+彼女 は お母さん ほど 美人 で は ない 。	she s not as beautiful as her mother .
+彼 は 英 文学 に 明るい 。	he is well read in english literature .
+番号 を お 間違え の よう です が 。	i am afraid you have the wrong number .
+私 は 化学 に まったく 興味 が ない 。	i m not a bit interested in chemistry .
+彼女 は 両親 を とても 慕っ て いる 。	she is deeply attached to her parents .
+彼女 は 食べ物 の 好み が うるさい 。	she is very particular about her food .
+何 か 企ん で いる でしょ 。 違う ？	you re planning something aren t you ?
+彼 は その 高校 の 校長 です 。	he is the principal of the high school .
+父親 に そっくり だ 。	he is the spitting image of his father .
+彼 が 販売 部 の 責任 者 だ 。	he s in charge of the sales department .
+ご 親切 を 感謝 し て い ます 。	i am grateful to you for your kindness .
+何 人 いるか 数え ます 。	i m counting how many people there are .
+この 付近 は 駐車 禁止 です 。	you re not allowed to park around here .
+来週 ボストン に いく ん だ よ ね ？	you re going to boston next week right ?
+解決 法 を 目下 考慮 中 です 。	i am considering how to settle the matter .
+私 は 体罰 に は 断固 反対 です 。	i m firmly opposed to corporal punishment .
+彼ら は 隣人 と 仲 が よい 。	they re on good terms with their neighbors .
+彼 は 心臓 外科 の 第一人者 だ 。	he is the foremost authority on heart surgery .
+彼 は 営業 部 の 部長 です 。	he is the manager of the marketing department .
