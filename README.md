@@ -16,15 +16,12 @@ Note: You can evaluate by Bleu using nlg-eval
 
 
 ## Results
-
+```
 Bleu_1: 0.529807
-
 Bleu_2: 0.371828
-
 Bleu_3: 0.263771
-
 Bleu_4: 0.196287
-
+```
 
 ## Reference
 - [Translator](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
